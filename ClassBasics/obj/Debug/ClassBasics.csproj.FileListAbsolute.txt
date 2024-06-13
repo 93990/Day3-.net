@@ -1,0 +1,8 @@
+D:\Trainings\Yash1\Day1\ClassBasics\obj\Debug\ClassBasics.csproj.AssemblyReference.cache
+D:\Trainings\Yash1\Day1\ClassBasics\obj\Debug\ClassBasics.csproj.SuggestedBindingRedirects.cache
+D:\Trainings\Yash1\Day1\ClassBasics\obj\Debug\ClassBasics.csproj.CoreCompileInputs.cache
+D:\Trainings\Yash1\Day1\ClassBasics\bin\Debug\ClassBasics.exe.config
+D:\Trainings\Yash1\Day1\ClassBasics\bin\Debug\ClassBasics.exe
+D:\Trainings\Yash1\Day1\ClassBasics\bin\Debug\ClassBasics.pdb
+D:\Trainings\Yash1\Day1\ClassBasics\obj\Debug\ClassBasics.exe
+D:\Trainings\Yash1\Day1\ClassBasics\obj\Debug\ClassBasics.pdb
