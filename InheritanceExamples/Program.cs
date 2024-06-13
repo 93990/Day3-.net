@@ -106,6 +106,8 @@ namespace InheritanceExamples3
             Console.WriteLine("derived class int,int cons");
             //this.i = i;
             this.j = j;
+            int sakshi;
+            sakshi = 100000;
         }
     }
 }
